@@ -34,6 +34,13 @@ python generate_patterns.py online_pretrain &
 
 Parameters, e.g., the size of the objects, and the number of images to be generated can be specified in `generate_patterns.py`.
 
+# Generate Pattern-free Figures
+The pattern-free figures to train perception models can be generated as follows:
+```
+python src/kpgen_random.py
+```
+Parameters, e.g., the number of figures to be generated and the size of the figures can be specified in `src/kpgen_random.py`.
+The code will produce the set of pattern-free kandinsky figures and json files that contain annotations for each object.
 
 ## License
 
