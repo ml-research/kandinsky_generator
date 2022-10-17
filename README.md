@@ -2,7 +2,7 @@
 
 This is a repository to generate Kandinsky Patterns based on the [Kandinsky Patterns project](https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator) for the paper:
 
-### [Neuro-Symbolic Forward Reasoning](https://arxiv.org/abs/2110.09383) , preprint.
+### [Neuro-Symbolic Forward Reasoning](https://arxiv.org/abs/2110.09383) , preprint [GitHub](https://github.com/ml-research/nsfr)
 #### [Hikaru Shindo](https://www.hikarushindo.com/), [Devendra Singh Dhami](https://sites.google.com/view/devendradhami), and [Kristian Kersting](https://ml-research.github.io/people/kkersting/index.html).
 
 A **Kandinsky Pattern** is defined as a set of Kandinsky Figures following a "Model of Truth", i.e. for each  Kandinsky Figure, we can tell if it belongs to the Kandinsky Pattern and why this is the case.
